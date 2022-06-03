@@ -2,7 +2,7 @@ Not Fork！
 
 ## v2ray-heroku
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/bbnk778/hero)
 
 ## 注意事项
 ### heroku上部署v2ray
